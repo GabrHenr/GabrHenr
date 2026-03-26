@@ -49,14 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🌎 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gabriel-henrique-665196151/
