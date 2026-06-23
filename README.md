@@ -19,15 +19,16 @@
 
 ### 💻 Front-End
 - React.js
+- React Native
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Styled Components
 - Responsive Design & Mobile First
 
 ### 🔗 Back-End (Learning)
-- Node.js
+- Python
 - REST APIs
-- Express.js
+- FastAPI
 
 ### ⚙️ Tools & Others
 - Git & GitHub
