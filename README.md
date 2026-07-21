@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gabriel Henrique
 
 🎓 Control and Automation Engineer  
-💻 Front-End Developer | Future Full-Stack Developer  
+💻 Back-End Developer | Future Full-Stack Developer  
 🚀 Passionate about technology, web development and automation systems  
 
 ---
@@ -19,7 +19,7 @@
 
 ### 💻 Front-End
 - React.js
-- React Native
+- React Native (Expo)
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Styled Components
@@ -35,12 +35,6 @@
 - Vite
 - Axios
 - Microsoft Power Platform (Power Apps, Power Automate)
-
-### 🔌 Embedded & Engineering Background
-- C / ESP-IDF (ESP32)
-- IoT Systems
-- Sensor Integration
-- PCB Layout Interpretation
 
 ---
 
